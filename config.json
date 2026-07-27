@@ -5,7 +5,7 @@
   "description": "Add-on to interface with Texecom Premier Elite alarm panels using MQTT",
   "url": "https://github.com/dchesterton/texecom2mqtt-hassio",
   "startup": "application",
-  "image": "dchesterton/texecom2mqtt",
+  "image": "ghcr.io/srkrunner/texecom2mqtt:fix-libatomic",
   "hassio_api": true,
   "boot": "auto",
   "services": ["mqtt:want"],

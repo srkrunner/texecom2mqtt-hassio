@@ -1,6 +1,1 @@
-
-{
-    "name": "texecom2mqtt Home Assistant Add-on",
-    "url": "https://github.com/srkrunner/texecom2mqtt-hassio",
-    "maintainer": "srkrunner"
-}
+{ "name": "texecom2mqtt Home Assistant Add-on", "url": "https://github.com/srkrunner/texecom2mqtt-hassio", "maintainer": "srkrunner" }

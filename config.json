@@ -25,7 +25,6 @@
     "texecom": {
       "host": "str",
       "udl_password": "password?",
-      "connection_type": "str",
       "port": "int?"
     },
     "mqtt": {
